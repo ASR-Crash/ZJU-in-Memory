@@ -1,0 +1,21 @@
+site_name: 三年浙大，科研生活
+site_favicon: favicon.ico
+site_url: 
+nav:
+- 第一学年:
+    - 第一学期: part1.md
+    - 第二学期: part2.md
+- 第二学年:
+    - 第三学期: part3.md
+    - 第四学期: part4.md
+- 第三学年:
+    - 第五学期: part5.md
+    - 第六学期: part6.md
+
+theme:
+    name: material
+    logo: favicon.ico
+    favicon: favicon.ico
+
+site_author: ASR-Crash
+copyright: Copyright © 2025 ASR-Crash <img src='https://xmu-rm-hwsd-um.readthedocs.io/en/latest/img/ASR-WS.png' width='64'> |&nbsp; <img src='https://xmu-rm-hwsd-um.readthedocs.io/en/latest/img/Crash-precision.png' width='160'> 
